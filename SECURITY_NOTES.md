@@ -1,0 +1,1 @@
+Hardcoded credentials were redacted during security audit. Rotate ALL previously committed API keys/tokens/certs immediately and load secrets from environment or a private secret store. Do not recommit live secrets.

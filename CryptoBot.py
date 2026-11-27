@@ -3,7 +3,7 @@ import pandas as pd
 import time
 
 # Set up the Binance API
-api_key = "n1kytIim3quQOzxH0g2eSBDzaLRwD0GuHdVovsxeK6r7w7iZxyW05RN5gQhev82s"
+api_key = "REDACTED"
 secret_key = "CGbRVxr6HcVt6X6helZrrxRhSmW9x3iITKyr8NyRwrnyvFTAjBHN5oLlEUGppJ5f"
 symbol = 'DOT/USDT'  # Replace with your desired trading pair
 timeframe = '30m'    # Replace with your desired timeframe
